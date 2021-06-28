@@ -1,0 +1,5 @@
+﻿  Testing2.cpp
+C:\Users\Jay\Desktop\Test\Testing2\Testing2.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jay\Desktop\Test\Testing2\Testing2.cpp(128,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jay\Desktop\Test\Testing2\Testing2.cpp(159,23): warning C4018: '<': signed/unsigned mismatch
+  Testing2.vcxproj -> C:\Users\Jay\Desktop\Test\Testing2\Debug\Testing2.exe
